@@ -1,4 +1,4 @@
-# 🎵 **Detector de Dados Sensiveis a LGPD integrado a IA**
+# **Detector de Dados Sensiveis a LGPD integrado a IA**
 
 ## 📅 **Descrição e Desenvolvedores**
 
@@ -10,3 +10,4 @@ Rita de Cássia Del Giudice Conceição - 24000469
 Este repositório contém no momento apenas a base para o projeto, será alterado em breve com mais informações.
 
 ---
+
